@@ -34,4 +34,4 @@ OBSERVATIONS FROM THE DATA:
 - The distribution of female versus male mice seem to be skewed, there are more male mice being used in this data set.
 - From the line plots generated, the tumor volume of Mouse s185 with Capomulin Treatment gradually decreased as time increased
 - From the scatterplot generated, mouse weight and tumor volume are positively correlated. The more a mouse weighs, the more likely it is that the average tumor volume for that mouse is larger. 
--
+
